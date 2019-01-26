@@ -1,4 +1,4 @@
-# Spark-streaming-kmeans
+# Spark-streaming-kafka-kmeans
 scala
 
 Producer and Consumer(spark-streaming) in same process different thread
